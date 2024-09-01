@@ -1,97 +1,14 @@
----
-enableMacro: true
-customVar: Hello
-define:
-    --APP_NAME--: Yank Note
-    --APP_VERSION--: '[= $ctx.version =]'
----
+
 # 简历
 
-<div style="display:none">
-个人信息{colspan=3} |
--------------|---------------
-![](./FILES/简历.md/img-20240805162104.jpg#pic_center =120x)| ***张聿韬*** / 男 / 1999  | 手机：13777588250\
-    | - 硕士 / 华东理工大学 / 控制工程  | 微信号：yutao_1999(手机同号) \
-    | - 本科 / 中国计量大学 / 自动化系  | Email：yutaov5@outlook.com \
-    |   | > Github：https://github.com/YuTaoV5 \
-    |   | 技术博客：https://yutaov5.github.io/ \
-    |   | \
-    |   | \
-    | | 
-</div>
-
-
-
-<!-- ::::: row 个人信息
-:::: col
-![](./FILES/简历.md/img-20240805162104.jpg#pic_center =130x)
-::::
-:::: col 
-
-
-::: tip 张聿韬 / 男 / 1999
 ![](https://img.shields.io/badge/华东理工大学%20-控制工程-blue)
 ![](https://img.shields.io/badge/中国计量大学%20-自动化系-blue)
-:::
-:::: row
-::: col 机器人
-
-:::
-::: col 脑机接口
-:::
-::: col 自动驾驶
-:::
-::::
-:::: col 
-Github：https://github.com/YuTaoV5
-技术博客：https://yutaov5.github.io/
-> 手机：13777588250
-微信号：yutao_1999(手机同号)
-Email：yutaov5@outlook.com
-::::: -->
-:::::: row 个人信息
-::::: col
-![](./FILES/简历.md/img-20240805162104.jpg#pic_center =175x)
-:::::
-
-:::: col 
-::: tip 张聿韬 / 男 / 1999
-![](https://img.shields.io/badge/硕士-8A2BE2)![](https://img.shields.io/badge/华东理工大学%20-控制工程-blue)
-![](https://img.shields.io/badge/本科-8A2BE2)![](https://img.shields.io/badge/中国计量大学%20-自动化系-blue)
-:::
-> 手机：13777588250
-微信号：yutao_1999(手机同号)
-Email：yutaov5@outlook.com
-::::
-
-::::: col
-::: col 
-Github：https://github.com/YuTaoV5
-技术博客：https://yutaov5.github.io/
-:::
-
-:::: row 擅长领域
-::: col 机器人
-:::
-::: col 脑机接口
-:::
-::: col 自动驾驶
-:::
-::::
-
-- 已通过英语CET-4、CET-6
-- 熟悉电子设计/机械建模/仿真控制
-- 平时比较喜欢跑步🏃+羽毛球🏸
-:::::
-
-
-::::::
 
 
 
-::: warning 
-应届，无工作或实习经历。
-:::
+
+
+> 应届，无工作或实习经历。
 
 
 # 项目经历
