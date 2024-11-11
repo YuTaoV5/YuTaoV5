@@ -9,6 +9,7 @@
 <img  src="https://img.shields.io/badge/本科-8A2BE2" />
 <img  src="https://img.shields.io/badge/中国计量大学%20-自动化系-blue" />
 </p>
+
 ## 项目经历
 
 > [!WARNING] 脑机接口方向
